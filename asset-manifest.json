@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/codeforces-virtual-contest-selector/static/js/main.5e8ce20d.js",
+    "index.html": "/codeforces-virtual-contest-selector/index.html",
+    "main.5e8ce20d.js.map": "/codeforces-virtual-contest-selector/static/js/main.5e8ce20d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5e8ce20d.js"
+  ]
+}
